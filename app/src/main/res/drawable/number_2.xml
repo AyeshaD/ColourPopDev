@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2"
+        android:id="@+id/number_2"
+        android:textSize="60dp"
+        android:textIsSelectable="false"
+        android:layout_marginTop="48dp"
+        android:textColor="#ffffff"
+        android:background="#a8e3ed"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+</selector>
