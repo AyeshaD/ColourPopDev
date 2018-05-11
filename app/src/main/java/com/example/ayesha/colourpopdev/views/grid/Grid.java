@@ -20,7 +20,7 @@ public class Grid extends GridView {
         Game.getInstance().createGrid(context);
 
         setNumColumns(Game.xDimension);
-        setAdapter(new GridAdapter());
+        setAdapter(new ());
     }
 
     @Override
