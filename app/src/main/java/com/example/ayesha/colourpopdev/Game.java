@@ -104,8 +104,8 @@ public class Game {
             }
 
             if (bombNotFound == 0 && notRevealed ==0) {            }
-                Snackbar snackbar = Snackbar.make(instance, "Game Won! Congratulations! ", Snackbar.LENGTH_SHORT);
-                snackbar.show();
+                //Snackbar snackbar = Snackbar.make(context., "Game Won! Congratulations! ", Snackbar.LENGTH_SHORT);
+                //snackbar.show();
             }
             return false;
 
